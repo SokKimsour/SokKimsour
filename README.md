@@ -24,14 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimsour&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=ffcc00" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsour&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
 ### 🔥 Streak & Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kimsour&theme=tokyonight&hide_border=true&ring=ffcc00&fire=ffcc00&currStreakLabel=ffffff" alt="GitHub Streak" />
